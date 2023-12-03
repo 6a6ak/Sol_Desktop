@@ -1,0 +1,1 @@
+Bash script for Solaris Desktop.
