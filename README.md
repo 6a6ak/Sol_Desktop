@@ -1,1 +1,1 @@
-Bash script for Solaris Desktop.
+GNOME Desktop Environment Installation for Solaris
